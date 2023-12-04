@@ -23,8 +23,8 @@ body,
 }
 
 .image {
-  @apply opacity-50 object-contain transform transition-transform;
-  filter: drop-shadow(0 0 0.75rem red);
+  @apply object-contain transform transition-transform;
+  filter: drop-shadow(0 0 1rem red);
 }
 </style>
 
